@@ -1,0 +1,36 @@
+h1 {
+    margin-left: 40px;
+    border: 3px solid;
+    margin-right: 813px;
+}
+
+.description {
+    border: 3px solid;
+    margin-left: 40px;
+}
+
+.recipe_details {
+    border: 3px dotted;
+    margin-top: 20px;
+    margin-right: 813px;
+    margin-left: 40px;
+}
+
+.ingredients {
+    border: 3px groove;
+    margin-left: 40px;
+    margin-right: 813px;
+}
+
+h2 {
+    margin-left:40px ;
+}
+
+.variation {
+    margin-left: 40px;
+}
+
+.instructions {
+    margin-left: 40px;
+    border: 3px groove;
+}
