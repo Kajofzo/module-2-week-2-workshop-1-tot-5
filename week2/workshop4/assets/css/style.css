@@ -1,0 +1,86 @@
+#container {
+    width: 935px;
+    margin:0 auto;
+}
+
+div {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+#header {
+    width: 890px;
+    height: 100px;
+}
+
+#sidebar {
+    width: 180px;
+    height: 500px;
+    float: left;
+}
+
+#content {
+    width: 670px;
+    height: 500px;
+    float: left;
+}
+
+#footer {
+    width: 893px;
+    height: 50px;
+    clear: left;
+}
+
+#header img {
+    width: 250px;
+    height: 110px;
+}
+
+#een {
+    border: 1px solid;
+    float: left;
+    width: 140px;
+    height: 100px;
+} 
+
+#two {
+    border: 1px solid;
+    float: left;
+    width: 45px;
+    height: 50px;
+}
+
+#three {
+    border: 1px solid;
+    float: right;
+    width: 45px;
+    height: 50px;
+}
+
+#four {
+    border: 1px solid;
+    float: left;
+    width: 140px;
+    height: 80px;
+}
+
+#five {
+    border: 1px solid;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+#six {
+    border: 1px solid;
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+
+#seven {
+    border: 1px solid;
+    float: right;
+    width: 150px;
+}
